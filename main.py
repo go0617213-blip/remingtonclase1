@@ -13,3 +13,4 @@ print("Resta:", resultado_resta)
 print("Multiplicacion:", resultado_multiplicacion)
 # mario alberto begambre gomez
 #Yunior Esteban Suarez Mozo
+#lorena ozuna cavadia
