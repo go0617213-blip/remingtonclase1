@@ -22,4 +22,4 @@ print("Multiplicacion:", resultado_multiplicacion)
 # juan sebastian pinedo frias 
 # Adrian Alvarez Guerra 
 # Natalia Fabra Meza
-#
+#Jesus Daniel Rojas
