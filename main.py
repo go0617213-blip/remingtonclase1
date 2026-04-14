@@ -16,3 +16,4 @@ print("Multiplicacion:", resultado_multiplicacion)
 #lorena ozuna cavadia
 #elver medina
 # jeison andres montes villamizar
+# maria jose gonzalez sanchez 
