@@ -21,3 +21,5 @@ print("Multiplicacion:", resultado_multiplicacion)
 # samuel pastrana fuentes
 # juan sebastian pinedo frias 
 # Adrian Alvarez Guerra 
+# Natalia Fabra Meza
+#
