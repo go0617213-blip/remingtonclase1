@@ -1,3 +1,17 @@
+# ====================================
+# Proyecto colaborativo - Operaciones
+# Módulo Principal
+# ====================================
+# Estudiantes:
+# - Mario Alberto Begambre Gómez
+# - Yunior Esteban Suárez Mozo
+# - Lorena Ozuna Cavadía
+# - Elver Medina
+# - Jeison Andrés Montes Villamizar
+# - Camilo Andrés Anaya Meléndrez
+# - Yonatan Yepes Campero
+# ====================================
+
 from operaciones import multiplicacion, resta
 
 # modulo principal
@@ -11,6 +25,7 @@ resultado_multiplicacion = multiplicacion(a, b)
 print("Suma:", resultado_suma)
 print("Resta:", resultado_resta)
 print("Multiplicacion:", resultado_multiplicacion)
+
 # mario alberto begambre gomez
 #Yunior Esteban Suarez Mozo
 #lorena ozuna cavadia
@@ -20,4 +35,9 @@ print("Multiplicacion:", resultado_multiplicacion)
 # Anuar Andres Manga Velasquez
 # samuel pastrana fuentes
 # juan sebastian pinedo frias 
+<<<<<<< HEAD
 # daniela ocampo 
+=======
+# Adrian Alvarez Guerra 
+# Natalia Fabra Meza
+>>>>>>> 032af525f9e2f23b0eaf7f69ad4059299e1a7dcd
