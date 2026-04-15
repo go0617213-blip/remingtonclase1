@@ -41,3 +41,4 @@ print("Multiplicacion:", resultado_multiplicacion)
 # Adrian Alvarez Guerra 
 # Natalia Fabra Meza
 >>>>>>> 032af525f9e2f23b0eaf7f69ad4059299e1a7dcd
+# Jesus Daniel Rojas
