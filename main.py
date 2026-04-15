@@ -39,5 +39,5 @@ print("Multiplicacion:", resultado_multiplicacion)
 # Adrian Alvarez Guerra 
 # Natalia Fabra Meza
 # pepito peres
-
+#Jesus Daniel Rojas 
 #14/04/2026
